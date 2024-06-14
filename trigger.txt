@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-xieyulin.aliyuncs.com/taosweet/mysql:5.7
+alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
